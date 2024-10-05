@@ -1,4 +1,4 @@
-# Halo semua! 
+# A learner 
  
 Let Me Introduce My Self, My Name Is **Rezki Andika**.<br>
 I'm a Undergraduate Student from State of Ujung Pandang Polythecnic
