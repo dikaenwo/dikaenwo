@@ -59,6 +59,5 @@ Here are some of the tools and technologies I use:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rezki-andika"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rezki%20Andika-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:rezkiandika@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-rezkiandika%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dikaenwo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-dikaenwo-lightgrey?style=for-the-badge&logo=github"/></a>
 </p>
