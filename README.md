@@ -5,7 +5,7 @@ Currently an **Undergraduate Student** at **State of Ujung Pandang Polytechnic**
 
 ---
 ### 👁‍🗨 Visitors Count
-![Visitor Count] https://profile-counter.glitch.me/dikaenwo/count.svg
+![Visitor Count]https://profile-counter.glitch.me/dikaenwo/count.svg
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Kotlin**, **Flutter**, **Unity**, and **Game Design Principles**.
